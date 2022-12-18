@@ -1,7 +1,7 @@
 {
   "name": "react-google-maps-user-location",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
